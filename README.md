@@ -3,7 +3,7 @@
 
 > Карасев Илья, Савелов Сергей
 
-![image](https://github.com/user-attachments/assets/45aaf672-810f-4eb2-9a57-2b081e8f32d6)
+<img src="https://github.com/user-attachments/assets/45aaf672-810f-4eb2-9a57-2b081e8f32d6" width="2140" />
 
 
 Просто так проверять через TryParse как то не круто, хотелось следовать принципу "Don’t Repeat Yourself". 
